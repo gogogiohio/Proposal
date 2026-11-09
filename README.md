@@ -1,10 +1,10 @@
 
 
-##Title：Home, Body and Environment
+## Title：Home, Body and Environment
 This research will combine theoretical reading, artistic case studies, material experiments and practice-based reflection to investigate the subject through a written dissertation.
 
 
-##Research Background and Motivation
+## Research Background and Motivation
 In my previous artistic practice, I have frequently explored questions related to bodily perception, such as how human perception takes place, how the body, environment, materials and technology interact with one another, and the relationships between humans and invisible phenomena.
 
 Through my recent lived experiences, I have become increasingly aware that, in an increasingly mobile society, people are more frequently questioning their own sense of belonging. Artists also often take the perceptual relationships between home, body and environment as a starting point to explore security, vulnerability and the connections between people and the world around them. Therefore, I would like to begin this research with my own lived experiences, taking _Home_ as a concrete point of departure. As someone living within a mobile society, home occupies a particularly significant place in my personal experience. When people talk about a sense of belonging, home is also often one of the first things that comes to mind. Starting from my own experiences, I hope to explore how we can rethink the relationships between home, body and environment through embodied experience and bodily perception, while identifying both shared experiences and differences.
@@ -18,12 +18,12 @@ On this basis, I will question traditional understandings of home, particularly 
 <img width="1962" height="1724" alt="shelter_page2_english_annotations" src="https://github.com/user-attachments/assets/158992b2-abd1-474a-a26c-213bb8c6af6a" />
 
 
-##Research Focus and Questions
+## Research Focus and Questions
 Traditionally, home is often associated with a fixed living space, familiar surroundings, family relationships and a sense of security. However, experiences of environmental uncertainty, migration and vulnerability may challenge our existing understandings of these concepts. These are also some of the issues that have troubled me for a long time and contributed to my own sense of not belonging. In the context of migration, travel, cross-cultural living and an increasingly mobile society, the relationship between home and belonging has become more complex.
 
 Through my own experiences and observations, I have found that a person can leave a place where they once lived while still maintaining an emotional attachment to it. Conversely, someone may live in a fixed location for a long time without ever developing a sense of belonging. It is also possible to develop a sense of familiarity or belonging towards an entirely new environment within a relatively short period of time. These different experiences have led me to question whether home necessarily depends on a fixed physical space, and whether memory, embodied experience and relationships between people and their environments also participate in the formation of home.
 
-##Reference
+## Reference
 This research will draw on phenomenological theory, particularly Maurice Merleau-Ponty's understanding of _Embodied Perception_, to explore how the body experiences and understands the world.
 
 It will also refer to Gaston Bachelard's _The Poetics of Space_, which provides a theoretical perspective for understanding the emotional and imaginative dimensions of inhabited spaces and examining the nature of domestic space. In addition, this research will draw on other literature and references to further consider the relationships between human and non-human entities, the body and the environment, and subject and object. These theoretical perspectives will help me reflect on the traditional binary division between humans and their environments, and explore whether home, body and environment can be understood as entities that are formed through their mutual relationships.
