@@ -1,4 +1,4 @@
-![[IMG_8700.jpg]]
+
 
 <span style="font-size:1.25em; font-weight:bold">Title：Home, Body and Environment</span>
 This research will combine theoretical reading, artistic case studies, material experiments and practice-based reflection to investigate the subject through a written dissertation.
@@ -14,8 +14,9 @@ This research will first examine the different dimensions of the concept of home
 On this basis, I will question traditional understandings of home, particularly the idea of home as a physical space that provides protection, as well as the conventional binary division between the human as the inhabiting subject and the environment as something external. I will further explore whether home can be understood as a relational condition formed through embodied experience, emotions and ongoing interactions between humans and their environments. I also aim to examine how embodied experience reshapes our understanding of home and our relationship with the environment.
 
 <span style="font-size:0.85em; color:#bababa">This project stems from my personal experience. After a short-term stay in an unfamiliar city, I began to reflect on the meaning of home.</span>
-![[shelter_page1_english_annotations.png]]
-## ![[shelter_page2_english_annotations.png]]
+<img width="1980" height="1722" alt="shelter_page1_english_annotations" src="https://github.com/user-attachments/assets/94978ffc-9ea4-42f1-ba87-27f2136f0a5e" />
+<img width="1962" height="1724" alt="shelter_page2_english_annotations" src="https://github.com/user-attachments/assets/158992b2-abd1-474a-a26c-213bb8c6af6a" />
+
 
 <span style="font-size:1.25em; font-weight:bold">Research Focus and Questions</span>
 Traditionally, home is often associated with a fixed living space, familiar surroundings, family relationships and a sense of security. However, experiences of environmental uncertainty, migration and vulnerability may challenge our existing understandings of these concepts. These are also some of the issues that have troubled me for a long time and contributed to my own sense of not belonging. In the context of migration, travel, cross-cultural living and an increasingly mobile society, the relationship between home and belonging has become more complex.
